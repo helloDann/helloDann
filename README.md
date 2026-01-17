@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## About me
+🚀 Building things with code  
+🌍 Based in [Hangzhou/China]  
+📫 How to reach me: [354546660@qq.com]
 <!--
 **helloDann/helloDann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
